@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+	<connectionStrings>
+		<add name="DataBase"
+			 connectionString="Server=10.20.240.15;Database=db_CUIOT;User Id=cumes;Password=cumes2023;Trusted_Connection=True;" />
+	</connectionStrings>
+</configuration>
